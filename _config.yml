@@ -1,23 +1,22 @@
 
-title: My Resume
-url: 'http://junlulocky.com'
+title: Naveen Resume
+url: 'https://naveenkambham.github.io'
 baseurl: '/PanelCV' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Naveen Kambham    
+title: 'MACHINE LEARNING ENGINEER'  ## your title
+location: Saskatoon , SK
 
 
-## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
-
+# Social Profiles
+facebook: https://www.facebook.com/kambhamnaveenkumar 
+twitter: https://www.twitter.com/kambhamnaveen 
+linkedin: https://www.linkedin.com/in/naveenkambham/  
+github: https://www.github.com/naveenkambham  ## will change to github 
+instagram: https://www.instagram.com/i.am.just.naveen_reddy  ## will change to instagram
 
 
 # Update all the sections by editing the files inside _includes folder.
