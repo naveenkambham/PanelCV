@@ -1,0 +1,2 @@
+Need to get 9 images and update them in the images folder
+Jekyll builds them automatically
